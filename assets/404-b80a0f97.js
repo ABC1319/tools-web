@@ -1,0 +1,1 @@
+import{_ as o,r as t,b as n,c as s,i as c}from"./index-de94c63d.js";const r={};function a(_,l){const e=t("el-empty");return n(),s("div",null,[c(e,{"image-size":200})])}const i=o(r,[["render",a],["__file","D:/BaiduNetdiskDownload/tools-web-master工具箱/src/components/404/404.vue"]]);export{i as default};
